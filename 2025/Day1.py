@@ -1,6 +1,6 @@
 import sys
 
-file_in = "input.in"
+file_in = "Day1.in"
 
 with open(file_in, "r") as f:
     string = f.read()
